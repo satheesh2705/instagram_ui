@@ -1,0 +1,70 @@
+
+body{
+    background-color: rgb(195, 198, 199);
+    padding-left: 39%;
+    padding-right: 35%;
+    
+    
+}
+
+    .container{
+        padding-top: 0px;
+        gap: 0px 0px;
+        display:grid;
+        align-items: center;
+        grid-template-columns:120px 120px auto ; 
+        border-radius: 10px;
+        background-color: bisque;
+        justify-content:start;
+
+        
+    }
+
+    .video{
+        padding: 0rem;
+    
+    }
+
+section .search{
+    padding-left: 3px;
+    width: 300px;
+    background-color: rgba(239,239,239,1);
+    display: flex;
+    align-items: center;
+    border-radius: 15px;
+    padding: 3px 16px;
+}
+
+section .search input{
+    height: 32px;
+    border: none;
+    outline: none;
+    background-color: rgba(239,239,239,1);
+    /* align-items: center; */
+    justify-content: center;
+    /* display: flex; */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
